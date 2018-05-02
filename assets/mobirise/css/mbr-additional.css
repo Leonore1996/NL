@@ -2554,6 +2554,9 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qQTAKwW2up {
+  background-image: url("../../../assets/images/img-20171135.jpg");
+}
 .cid-qQa6ieFeBy .navbar {
   background: #ffffff;
   transition: none;
@@ -2944,8 +2947,8 @@ body {
   color: #767676 !important;
 }
 .cid-qQxkhgoUrb {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qQxkhgoUrb .mbr-slider .carousel-control {
@@ -3024,6 +3027,9 @@ body {
 }
 .cid-qQNrs1Y3uX H3 {
   color: #ffffff;
+}
+.cid-qQTzGh9dEs {
+  background-image: url("../../../assets/images/img-20180215.jpg");
 }
 .cid-qQa6ieFeBy .navbar {
   background: #ffffff;
