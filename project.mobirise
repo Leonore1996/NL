@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://leonore1996.github.io/pub/",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,7 +52,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, ",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, ongeglazuurd, biscuit, boetseren, beeldhouwen",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -498,7 +498,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs ",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, materiaal, materials, beeldhouwen, boetseren, table, tafel, fantasie, poeple, participeren, mensen, spontaan, zeep, echt, niet echt, geur, detail ",
         "title": "Page 1 werken",
         "order": 6
       },
@@ -953,7 +953,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, a tabla, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy",
+        "meta_descr": "Léonore, Schietekat, a tabla, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy, tafel, table, boetseren, beeldhouwen, clay, klei, participeren",
         "title": "Page 2 : 'a table'",
         "order": 5
       },
@@ -1586,7 +1586,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs ",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, beeldhouwen, sculptor, boetseren, materials, materiaal",
         "title": "Page 3 jute zakken",
         "order": 4
       },
@@ -2328,7 +2328,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, EKWC, Europees, Keramisch, Werkcentrum",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, EKWC, Europees, Keramisch, Werkcentrum, 3D printen, 3D, printen, project, Nederland",
         "title": "projecten",
         "order": 3
       },
@@ -2999,7 +2999,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, EKWC, Europees, Keramisch, Werkcentrum",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, EKWC, Europees, Keramisch, Werkcentrum, 3D printen, 3D, printen, contact",
         "title": "contact",
         "order": 2
       },
@@ -3455,7 +3455,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, zeep, soap, trompe l'oeil, gezichtsbedrog, soapserie, soap,",
+        "meta_descr": "Léonore, Schietekat, keramiek, glas, ceramics, glas, school, arts, luca, Gent, 2018, monsters, fantasiewezens, fantasy, jute zakken, sacs, humor, walrus, dieren, zeep, soap, trompe l'oeil, gezichtsbedrog, soapserie, soap, beeldhouwen, boetseren, materiaal, materials, sculpter",
         "title": "Page 4 : soapserie",
         "order": 1
       },
